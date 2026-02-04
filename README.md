@@ -16,15 +16,3 @@ A Python implementation of Reinforcement Learning from Human Feedback (RLHF) for
 **-**`data/` - Training data (not tracked in git)
 
 More details coming soon.
-**``** ** **And `.gitignore`:** **``
-**__**pycache**__**/
-*****.pyc
-*****.pyo
-.ipynb_checkpoints/
-data/
-*****.pt
-*****.pth
-*.onnx
-wandb/
-.env
-.DS_Store
